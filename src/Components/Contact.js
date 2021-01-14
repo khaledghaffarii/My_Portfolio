@@ -57,7 +57,7 @@ const Contact = ({ data }) => {
 
                   <div>
                      <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea value={message} onChange={e => setMessage(e.target.value)} cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                     <textarea value={message} onChange={e => setMessage(e.target.value)} cols="50" rows="8" id="contactMessage" name="contactMessage"></textarea>
                   </div>
 
                   <div>
