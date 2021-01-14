@@ -89,10 +89,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "DashBoard with reactJS",
+        "category": "DashBoard with reactJS-laravel-firebase",
+        "image": "dashboard.png",
+        "url": "https://eppm-dashboard.web.app"
       },
       {
         "title": "Robinhood Clone",
