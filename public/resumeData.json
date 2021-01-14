@@ -95,10 +95,10 @@
         "url": "https://eppm-dashboard.web.app"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Tinder Clone",
+        "category": "Tinder Clone with MERN stack",
+        "image": "tinder.png",
+        "url": "https://tinder-clone-65889.web.app/"
       }
     ]
   },
