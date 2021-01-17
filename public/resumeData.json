@@ -99,6 +99,12 @@
         "category": "Tinder Clone with MERN stack",
         "image": "tinder.png",
         "url": "https://tinder-clone-65889.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "clone Netflix with Reactjs",
+        "image": "Netflix.png",
+        "url": "https://netflix-clone-2b64c.web.app/"
       }
     ]
   },
