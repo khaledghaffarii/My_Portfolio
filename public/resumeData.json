@@ -1,21 +1,21 @@
 {
   "main": {
-    "name": "Khaled Ghaffari",
+    "name": "Mohamed Khaled Ghaffari",
     "occupation": "Free Lancer @khaledghaffarii",
     "description": "Web Developer .",
-    "image": "khaled.jpg",
+    "image": "khaledghaffari.png",
     "bio": "My name is Khaled,Graduated from the Higher School of Technology in Tunis, recently web developer. ready to integrate a company where I will be able to live daily experience and improve my knowledge by integrating a professional team.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "med.khaledghaffarii@gmail.com",
     "phone": "+216 54 09 19 84",
     "address": {
       "street": "El Menzah 1 ",
-      "city": "Tunisia",
+      "city": "Tunis ",
       "state": "Tunisia",
       "zip": "1004"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1nvgRuDu3i1hVeElAZv7T5aWBPvHx6i74/view?ths=true",
     "social": [
       {
         "name": "facebook",
@@ -60,50 +60,58 @@
         "company": "DevNet",
         "title": " internship-ReactJs/Laravel",
         "years": "june 2020 - December 2020",
-        "description":  "participation in a web application: jawi.tn: technologies used: git / gitLab frontend part: css, bootstrap 4 react, react-router javaScript, Jquery."
-      } 
+        "description": "participation in a web application: jawi.tn: technologies used: git / gitLab frontend part: css, bootstrap 4 react, react-router javaScript, Jquery."
+      },
+      {
+        "company": "EPPM",
+        "title": "Mobil App Developer",
+        "years": "January 2021 - Mai 2021",
+        "description": "Creation of a Mobile Dashboard Application for the company, technologies used: git / gitLab frontend part: css, react-native-cli, javaScript. backend part : nodejs ,express , Msql"
+      }
     ],
     "skills": [
-      {
-        "name": "ReactJs",
-        "level": "60%"
-      },
       {
         "name": "HTML,CSS",
         "level": "80%"
       },
       {
-        "name": "Git",
-        "level": "45%"
+        "name": "JavaScript , Jquery",
+        "level": "60%"
       },
       {
-        "name": "JavaScript",
+        "name": "ReactJs",
         "level": "60%"
+      },
+      {
+        "name": "React-Native",
+        "level": "40%"
+      },
+      {
+        "name": "Node js  , Express",
+        "level": "40%"
       },
       {
         "name": "PHP,MySql",
         "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "45%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "DashBoard with reactJS",
-        "category": "DashBoard with reactJS-laravel-firebase",
-        "image": "dashboard.png",
-        "url": "https://eppm-dashboard.web.app"
-      },
-      {
         "title": "Tinder Clone",
         "category": "Tinder Clone with MERN stack",
-        "image": "tinder.png",
+        "image": "tinder.jpg",
         "url": "https://tinder-clone-65889.web.app/"
       },
       {
         "title": "Netflix Clone",
         "category": "clone Netflix with Reactjs",
-        "image": "Netflix.png",
+        "image": "netflix.jpg",
         "url": "https://netflix-clone-2b64c.web.app/"
       }
     ]
