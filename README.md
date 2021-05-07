@@ -3,7 +3,7 @@
 
 # khaled ghaffarii ReactJS Portfolio Template      
 
-![ReactJS Resume Website Template](Capture d’écran de 2021-05-07 14-56-39.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](resume-ghaffarii.png?raw=true "ReactJS Resume Website Template")
 
 ## <a href="https://react-portfolio-a71fa.web.app" target="_blank">LIVE DEMO</a>
 
