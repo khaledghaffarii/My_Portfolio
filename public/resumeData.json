@@ -15,7 +15,7 @@
       "zip": "1004"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1nvgRuDu3i1hVeElAZv7T5aWBPvHx6i74/view?ths=true",
+    "resumedownload": "https://drive.google.com/file/d/1Sf_ecZKaus0UHX4bJ9_DMwJhAJ7hsJ2D/view?ths=true",
     "social": [
       {
         "name": "facebook",
@@ -110,9 +110,15 @@
       },
       {
         "title": "Netflix Clone",
-        "category": "clone Netflix with Reactjs",
+        "category": "clone Netflix with ReactJs",
         "image": "netflix.jpg",
         "url": "https://netflix-clone-2b64c.web.app/"
+      },
+        {
+        "title": "Google Clone",
+        "category": "clone Google with NextJs",
+        "image": "googlee.png",
+        "url": "https://google-khaled.vercel.app/"
       }
     ]
   },
