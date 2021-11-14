@@ -114,11 +114,17 @@
         "image": "netflix.jpg",
         "url": "https://netflix-clone-2b64c.web.app/"
       },
-        {
+      {
         "title": "Google Clone",
         "category": "clone Google with NextJs",
-        "image": "googlee.png",
+        "image": "google.jpg",
         "url": "https://google-2-0-yt-fawn.vercel.app/"
+      },
+      {
+        "title": "Disney-plus Clone",
+        "category": "Disney-plus with NextJs",
+        "image": "disney1.png",
+        "url": "https://disneyplus-clone-f8077.web.app/"
       }
     ]
   },
