@@ -3,7 +3,7 @@
     "name": "Mohamed Khaled Ghaffari",
     "occupation": "Free Lancer @khaledghaffarii",
     "description": "Web Developer .",
-    "image": "khaledghaffari.png",
+    "image": "khaledghaffarii.jpeg",
     "bio": "My name is Khaled,Graduated from the Higher School of Technology in Tunis, recently web developer. ready to integrate a company where I will be able to live daily experience and improve my knowledge by integrating a professional team.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "med.khaledghaffarii@gmail.com",
@@ -15,7 +15,7 @@
       "zip": "1004"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1Sf_ecZKaus0UHX4bJ9_DMwJhAJ7hsJ2D/view?ths=true",
+    "resumedownload": "https://drive.google.com/file/d/1srIkSh2LF7sPyMZQRyLH3H1ljzzYRaZt/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -67,6 +67,12 @@
         "title": "Mobil App Developer",
         "years": "January 2021 - Mai 2021",
         "description": "Creation of a Mobile Dashboard Application for the company, technologies used: git / gitLab frontend part: css, react-native-cli, javaScript. backend part : nodejs ,express , Mysql"
+      },
+      {
+        "company": "Shadows-me",
+        "title": "React and React Native Developer, remote",
+        "years": "Since August 2021",
+        "description": "Development of a chocolate mobile application for a DALLA & HALLA store; tools: react-native ,tailwind css and ﬁrebase development of a fashion web application for the Saudi company Loom; tools: Nextjs ,tailwind css and ﬁrebase"
       }
     ],
     "skills": [
@@ -75,29 +81,30 @@
         "level": "80%"
       },
       {
+        "name": "TailwindCss ,Bootstrap",
+        "level": "70%"
+      },
+      {
         "name": "JavaScript , Jquery",
         "level": "60%"
       },
       {
-        "name": "ReactJs",
+        "name": "ReactJs , React-Native , NextJs",
         "level": "60%"
       },
       {
-        "name": "React-Native",
-        "level": "40%"
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase,MySql",
+        "level": "50%"
       },
       {
         "name": "Node js  , Express",
         "level": "40%"
-      },
-      {
-        "name": "PHP,MySql",
-        "level": "50%"
-      },
-      {
-        "name": "Git",
-        "level": "45%"
       }
+      
     ]
   },
   "portfolio": {
@@ -125,6 +132,35 @@
         "category": "Disney-plus with NextJs",
         "image": "disney1.png",
         "url": "https://disneyplus-clone-f8077.web.app/"
+      },
+      {
+        "title": "Spotify Clone",
+        "category": "Spotify with NextJs & TailwindCss ",
+        "image": "spotify.png",
+        "url": "https://spotify-clone-2ppq8o1ri-khaledghaffarii.vercel.app"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon with NextJs & TailwindCss ",
+        "image": "amazon.png",
+        "url": "https://amazon-clone-kappa-six.vercel.app"
+      },
+      {
+        "title": "Covid 19 Tracker",
+        "category": "React.js ",
+        "image": "covid.jpg",
+        "url": "https://covid-19-tracker-pearl-omega.vercel.app"
+      },
+      {
+        "title": "Drag And Drop ",
+        "category": "Type Script ",
+        "image": "typescript.png",
+        "url": "https://drag-and-drop-seven.vercel.app"
+      },  {
+        "title": "Todo List ",
+        "category": "React.js && firebase",
+        "image": "to do list.png",
+        "url": "https://todo-ixdnqxxm7-khaledghaffarii.vercel.app"
       }
     ]
   },
